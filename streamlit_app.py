@@ -5,7 +5,7 @@ streamlit.title('My Moms new Healthy diner')
 streamlit.header('🍞Breakfast Menu')
 streamlit.text('🍇Omega3 & Blueberry')
 streamlit.text('🌮Kale, Spinach')
-streamlit.text('🥚Green Tea')
+streamlit.text('🥚Green Tea - no sugar')
 
 streamlit.header('🍒🍑Build your own Fruit breakfast Menu🍌🍍')
 
